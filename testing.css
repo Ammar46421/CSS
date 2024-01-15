@@ -44,7 +44,7 @@ h3 {
 }
 
 body {
-    background-color: rgb(77, 155, 194);
+    background-color: rgb(0, 0, 0);
 }
 
 .link>li>a {
@@ -65,16 +65,16 @@ h1 {
 }
 
 #p1 {
-   display: flex;
+    display: flex;
 
 }
 
 #p1 div {
-    background-color: rgb(230, 229, 222);
+    background-color: rgb(252, 232, 82);
     align-items: center;
     margin: 10px;
     width: 100%;
-    
+
 }
 
 .d {
@@ -97,6 +97,4 @@ h2 {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-size: larger;
     font-style: italic;
-
-
 }
